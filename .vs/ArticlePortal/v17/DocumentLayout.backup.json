@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\articleportal\\articleportal\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\articleportal\\articleportal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\articleportal\\articleportal\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\subir\\articleportal\\articleportal\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|c:\\users\\matheus\\documents\\projetos\\articleportal\\articleportal\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23E084CC-B679-4808-967D-5F2E9A7E3B40}|ArticlePortal\\ArticlePortal.csproj|solutionrelative:articleportal\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,59 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Models\\Article.cs",
-              "RelativeDocumentMoniker": "ArticlePortal\\Models\\Article.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Models\\Article.cs",
-              "RelativeToolTip": "ArticlePortal\\Models\\Article.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:42:25.348Z",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ArticlePortal\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ArticlePortal\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T03:57:10.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Create.cshtml",
-              "RelativeDocumentMoniker": "ArticlePortal\\Views\\Articles\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Create.cshtml",
-              "RelativeToolTip": "ArticlePortal\\Views\\Articles\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T01:40:52.05Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "ArticlePortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\appsettings.json",
+              "RelativeToolTip": "ArticlePortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T04:50:17.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Index.cshtml",
-              "RelativeDocumentMoniker": "ArticlePortal\\Views\\Articles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Index.cshtml",
-              "RelativeToolTip": "ArticlePortal\\Views\\Articles\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T01:04:55.524Z",
-              "EditorCaption": ""
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "ArticlePortal\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Models\\Article.cs",
+              "RelativeToolTip": "ArticlePortal\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T01:42:25.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "ArticlePortal\\Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "ArticlePortal\\Views\\Articles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T01:40:52.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "ArticlePortal\\Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "ArticlePortal\\Views\\Articles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T01:04:55.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ArticlesController.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Controllers\\ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Controllers\\ArticlesController.cs",
               "RelativeDocumentMoniker": "ArticlePortal\\Controllers\\ArticlesController.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\ArticlePortal\\ArticlePortal\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Projetos\\ArticlePortal\\ArticlePortal\\Controllers\\ArticlesController.cs",
               "RelativeToolTip": "ArticlePortal\\Controllers\\ArticlesController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwE0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T01:04:28.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T01:04:28.122Z"
             }
           ]
         },
